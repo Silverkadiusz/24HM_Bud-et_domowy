@@ -60,7 +60,7 @@ public class Transaction {
 
     @Override
     public String toString() {
-        return "Budget{" +
+        return "Transaction{" +
                 "id=" + id +
                 ", type='" + type + '\'' +
                 ", description='" + description + '\'' +
